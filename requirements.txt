@@ -1,0 +1,2 @@
+# Requires: forgotten-void
+# (Not available on PyPI)
